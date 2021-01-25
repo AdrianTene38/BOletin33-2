@@ -1,0 +1,3 @@
+/home/adrian/Escritorio/8de10/ruso2/Ejemplo--16-Local-Binary-Patterns-LBP-OpenCV/build/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/8de10/ruso2/Ejemplo--16-Local-Binary-Patterns-LBP-OpenCV/build/CMakeFiles/lbp.dir
+/home/adrian/Escritorio/8de10/ruso2/Ejemplo--16-Local-Binary-Patterns-LBP-OpenCV/build/CMakeFiles/edit_cache.dir
